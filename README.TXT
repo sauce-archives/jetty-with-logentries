@@ -1,3 +1,7 @@
+RUNNING JETTY WITH LOGENTRIES:
+=============================  
+
+  LOGENTRIES_TOKEN="<token>" java -jat start.jar
 
 JETTY
 =====
